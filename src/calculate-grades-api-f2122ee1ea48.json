@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "calculate-grades-api",
+  "private_key_id": "f2122ee1ea486cec1f5c701f543eeee68cab55a9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDQGIqmarD5XY1G\nITYI+JH5VdVdOiR9Qjy8WrIGszhsR9JlgeNx7VGy2EshlEHINal9kJDOL3QrUwkS\np+Usk2wDDi5KuRbwZbIHk4n9A48/L/SwE8KAREE/qZ0VmIgkJi+HH3DWvY4zfct8\nFxTj9m/ehDkWU881ID8rEH2u5NjQgnMKrmqTuN2AlOlnHeBJqCtDxh4moxiLHE0I\nzHITZ5IG2mlOxr1rd1F3IsbugTLHuorZ2RqDVRsT2KwHrn1GLQ0UvNFEXFbU+nzk\nAdCYCFDUeyrxgE6T/Ma6o/+wjtVhANPrZuTWueJjEDLbkkqqK1mTfFz2y3j1ePX1\nRbLmdSHnAgMBAAECggEATuOO5In7730sypJalsoNJNYKXh5lqOrMdad4aBvXXw1X\nUM4N+Km8WC2xRdibm5fkWkrM6q2Iv8fp352wvtZgk0Pz/rXuYVJcTIz9OeL4kj7O\n51WGXfQCPG1DtOUvb2zehb5Am9geqZyd4LwrWkSZomTD85fwLLa928iTrRLqsxii\nHe+HEXTwSCyuWW7PcqK3zGIYtavIjhtO4qwVRG+uFRqAbMp0WFoCi8nDtCrmhr3/\nWi31/z7LfAC9ywfQpMaDGJ7oYEbxpkQPw+4hS/1MA41YJwXVTzgOH1yvR2h+hCY7\nuGwpsMQLd/W+do93q4yPvQcnXRru5JnNnbYLAW8WaQKBgQDnHQbsmgTcIhb0SVv/\nJos8sd1Ic/pvThpYw7pHSkf4h2vv+HCvvLJyjfbRghy+mdPdMmhPHnaFIqDthekk\nsDHe4yzyzkf7FSUqmZDhsh/AGJkQEHE4VCeLu2HPC8Xcf69pacStf3BsE8j/s/EH\ncLDQUG0F0cru5lGoID9iwNP3dQKBgQDmgQDjeAS1Q3HYU3WkaWoqVNmK91mJBOop\nn58vzFwBhIlHe+poSWfzjTTTREiQejoTtlOUyAP92UTqJW53kEVuemkQiUW5nZYO\nJrqdKpvPy5UonEU1tOGcuaMfUmhnq9KmEP4oFObZ/+z8JkflBrgmg4WqiqBSVzDs\n9cN8KQdkawKBgEWqR0sMxkhA8mBiuJt51+DM0KIla6kfhuuY3E7fAkDVOWEVp4oh\nvDyxtGPE77s4jVeQ+UZYLWvGW3IduoB3qCDCo+rw6VuzLQfhUH3n/pAeGg1wl2Be\nZalGK56IsvTbfFmvKz0NPCsn75+8cvxGKNYyWBq3+Y732EdwqQqwi3R9AoGBAKf1\nVDprl7KlBG2G0vAMR+m0jheuiLVIuX++6fWgSWJpusY1yuZWpsJXICjZVq7AAVWf\nw2NkI1RzXr3mrIm+vHj2BVyhSgcohtCk89HV3FcblwJSbDPoK4VR10TZfW4dS47q\nTufR4yzySTKqijSeIs0dhOZxwMR++A2SPvFXzCUlAoGAR1/Oy4rzYPh2a2XYFJHR\nEOiHDaqX8mNAsQnxv1KGVCMB/CBkRBQtcEIoU7DDhYLgfi1pwr4v65KCc47Ueilp\n/TRNjAbwnme6gJyPEJCYo4l4n23I+osaBcs/h8XDVF2U30p7OruAlRUu1mNc7XQ3\nTOEaJmFE//WygD8cHpiTF9o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "calculate-grades-api@calculate-grades-api.iam.gserviceaccount.com",
+  "client_id": "101466536600082011823",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calculate-grades-api%40calculate-grades-api.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
